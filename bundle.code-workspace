@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "backend-webapp"
+		},
+		{
+			"path": "payment-function"
+		},
+		{
+			"path": "add-guest-workflow"
+		},
+		{
+			"path": "reviews-function"
+		},
+		{
+			"path": "registration-function"
+		}
+	],
+	"settings": {}
+}

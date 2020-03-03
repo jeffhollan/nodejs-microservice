@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-microservice",
+  "version": "1.0.0",
+  "description": "NodeJS Microservice running in Azure",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "restify": "^8.5.1"
+  }
+}
