@@ -1,0 +1,12 @@
+{
+    // Open port 8080 by default
+    "appPort": 8080,
+  
+    // Azure extensions
+    "extensions": [
+      "ms-vscode.azure-account",
+      "ms-azuretools.vscode-azurefunctions",
+      "ms-azuretools.vscode-cosmosdb",
+      "ms-azuretools.vscode-logicapps"
+    ]
+  }
